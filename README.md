@@ -21,9 +21,7 @@ This is a course management project where students can register for their desire
 
 
 
-## Demo
 
-https://api.pak160404.click/index.html
 
 ## Tools and Technologies
 - Frontend: Swagger UI  
